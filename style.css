@@ -1,0 +1,43 @@
+.grid{
+	display:flex;
+	flex-wrap: wrap;
+	/*width: 384px;
+	height: 512px;*/
+	margin:auto;
+}
+@media only screen and (min-width: 600px) {
+  	img{
+		width: 290px;
+		height: 290px;
+	}
+}
+
+/*@media only screen and (min-width: 600px) {
+	.grid{
+		display:flex;
+		flex-wrap: wrap;
+		width: 384px;
+		height: 512px;
+		margin:auto;
+	}
+}*/
+
+h3{
+	margin:auto;
+}
+
+#finalResult{
+	/*display: inline;*/
+	position: relative;
+	font: 2rem Helvetica, Sans-Serif;
+	/*letter-spacing: -5px;*/
+	color: rgba(0,0,255,0.5); 
+	white-space: pre-line;
+}
+
+/*#finalResult:after {
+	content: "YOU were better than";
+	position: absolute; left: 10px; top: 5px;
+	color: rgba(255,0,0,0.5);   
+}
+*/
