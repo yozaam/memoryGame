@@ -1,12 +1,5 @@
 Tap on the stars to find the pairs
 https://www.yozaam.com/memory is where it is hosted
 
-About HTML
+<img width="1280" alt="Screenshot 2020-10-24 at 5 57 10 PM" src="https://user-images.githubusercontent.com/20089340/97081809-84582380-1622-11eb-8749-f80208fc72ed.png">
 
-    The <!DOCTYPE html> declaration defines that this document is an HTML5 document
-    The <html> element is the root element of an HTML page
-    The <head> element contains meta information about the HTML page
-    The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
-    The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
-    The <h1> element defines a large heading
-    The <p> element defines a paragraph
